@@ -4,7 +4,7 @@ import Tkinter
 
 
 root = Tkinter.Tk()
-root.title(u"Software Title")
+root.title(u"RasPi_temp")
 root.geometry("350x50")
 
 
