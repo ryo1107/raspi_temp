@@ -6,7 +6,7 @@
 NASとして使っているラズパイの温度監視をしたかったため。
 ## 必要な環境
  RaspbianのインストールされたRaspberryPi  
- python  
+ python2.7  
  tkinter  
 
 ##### ※python3系を使う場合はTkinterをtkinterに変えてください。
